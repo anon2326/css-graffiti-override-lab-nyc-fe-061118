@@ -1,12 +1,12 @@
 /* write your override styles here */
-#wall .tag1{
+#wall .tag-1{
   display: none;
 }
 body div#wall #tag-2{
   display: none;
 }
 
-div#wall #tag3 .slick .wicked{
+div#wall #tag-3 .slick .wicked{
   display: none;
 }
 
